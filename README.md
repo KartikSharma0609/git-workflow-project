@@ -31,10 +31,14 @@ python3 app.py
 
 ## Screenshots
 Merges
-![Merges](docs/screenshots/MR-1.png,docs/screenshots/MR-2.png)
+![Merges](docs/screenshots/MR-1.png)
+![Merges](docs/screenshots/MR-2.png)
+
 Branches
 ![Branches](docs/screenshots/Branches.png)
+
 Tags
 ![Tags](docs/screenshots/Tags.png)
+
 Graph
 ![Graph](docs/screenshots/Graph.png)
