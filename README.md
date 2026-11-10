@@ -30,7 +30,11 @@ python3 app.py
 - `v1.0.0`: first stable release
 
 ## Screenshots
-Add images from `docs/screenshots/` here.
-
-## Documentation
-Interview answers are in [docs/git-notes.md](docs/git-notes.md).
+Merges
+![Merges](docs/screenshots/MR-1.png,docs/screenshots/MR-2.png)
+Branches
+![Branches](docs/screenshots/Branches.png)
+Tags
+![Tags](docs/screenshots/Tags.png)
+Graph
+![Graph](docs/screenshots/Graph.png)
